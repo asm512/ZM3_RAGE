@@ -1,8 +1,3 @@
----
-layout: post
-title: Modelbin format introduction
-permalink: /docs/_posts/
----
 # The .modelbin format 
 ### Forza Motorsport 6 Apex, Forza Horizon 3 and Forza Motorsport 7
 
