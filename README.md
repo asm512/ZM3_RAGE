@@ -9,8 +9,6 @@
 
 
 ### Development and contributions
-
-Most of the docs will be written by myself with help from members from the YCA Modding Group and other various members, however any more contributions are more than welcome.
 How to contribute:
 >Fork the repo to yoursername/Zmodeler_GTA5
 
