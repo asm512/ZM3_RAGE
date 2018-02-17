@@ -20,7 +20,12 @@ window_lf
 window_rr
 window_lr
  
-wheel_lf
+[wheel_lf]
+
+hub_lf
+hub_lr
+hub_rr
+hub_rf
 
 bodyshell
 chassis
