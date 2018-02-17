@@ -14,3 +14,5 @@ overheat
 engine
 
 interiorlight
+
+steeringwheel
