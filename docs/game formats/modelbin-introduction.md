@@ -11,7 +11,7 @@ If you've got the game, dumping it to gain access to otherwise encrypted files, 
 Depending on which game you took your vehicle from, the parent directories must be set accordingly, respecting the original game structure. In the archive, unpack the folder into the following directories. Make sure the folder name is the same as the `.carbin` name inside of  the archive
 >Forza Motorsport 6
 
-	Apex/media/game/cars/
+	Apex\media\game\cars\
 	
 >Forza Horizon 3
 
@@ -19,7 +19,7 @@ Depending on which game you took your vehicle from, the parent directories must 
 	
 >Forza Motorsport 7
 
-	FM7/media/cars
+	FM7\media\cars
 	
 
 ## Conversion
