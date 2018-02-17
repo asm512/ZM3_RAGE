@@ -12,3 +12,5 @@ platelight
 overheat
 
 engine
+
+interiorlight
