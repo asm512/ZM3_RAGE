@@ -1,4 +1,4 @@
-vehicle parts, objects, parts
+vehicle parts, objects, parts, objectlist
 
 List of vehicle objects:
 
@@ -45,3 +45,13 @@ wing_rf
 wing_rr
 wing_lr
 wing_lf
+
+headlight_l
+headlight_r
+brakelight_l
+brakelight_m
+brakelight_r
+indicator_lf
+indicator_rf
+indicator_lr
+indicator_rr
