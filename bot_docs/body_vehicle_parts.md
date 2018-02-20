@@ -55,3 +55,5 @@ indicator_lf
 indicator_rf
 indicator_lr
 indicator_rr
+reversingslight_l
+reversingslight_r
